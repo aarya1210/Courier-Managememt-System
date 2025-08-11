@@ -25,5 +25,20 @@ It is built to help courier agencies streamline their workflow, track shipments 
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ⚙️ Installation & Setup
+
+### Prerequisites
+- XAMPP / WAMP server
+- PHP ≥ 7.4
+- MySQL ≥ 5.7
+- Web browser (Chrome/Firefox recommended)
+
+### Steps
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/aarya1210/Courier-Managememt-System.git
+
 
